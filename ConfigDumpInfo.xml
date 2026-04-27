@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.20">
+	<ConfigVersions>
+		<Metadata name="AccumulationRegister.ОстаткиСредств" id="41aab7f4-2893-4e71-b5a8-7edd6d88f518" configVersion="85dd2dedc589494e92a41c13f7539a1100000000">
+			<Metadata name="AccumulationRegister.ОстаткиСредств.Dimension.СчетДенежныхСредст" id="0448e29e-3aff-4302-8d79-cf18bef86cfc"/>
+			<Metadata name="AccumulationRegister.ОстаткиСредств.Resource.Сумма" id="0f04a870-b9af-45fd-8077-84f4965d2615"/>
+			<Metadata name="AccumulationRegister.ОстаткиСредств.Dimension.Организация" id="1cec5ce3-3148-44d8-a3bc-04fcf115a0d7"/>
+			<Metadata name="AccumulationRegister.ОстаткиСредств.Dimension.Валюта" id="42900585-0b61-4d9b-b200-d65e38e6d718"/>
+			<Metadata name="AccumulationRegister.ОстаткиСредств.Resource.СуммаОстаток" id="6cfbbaaa-d363-4140-b51f-55dcb5e7ad83"/>
+			<Metadata name="AccumulationRegister.ОстаткиСредств.Dimension.Договор" id="6f0db275-e550-4c71-a440-6c196c219318"/>
+			<Metadata name="AccumulationRegister.ОстаткиСредств.Resource.СуммаВзаиморасчетов" id="dc9c6309-488b-4887-ae51-a1f86608aea6"/>
+		</Metadata>
+		<Metadata name="AccumulationRegister.ПоступлениеСредств" id="bcaebd3d-3037-47d9-8d2c-c96a66e6f693" configVersion="da8a1754722df744b70ebfce3de6249900000000"/>
+		<Metadata name="Catalog.Администратору" id="6fedb4bd-0115-472c-9a0e-f919c46e4a39" configVersion="a358e24d0a4e664282dfb322d8eb379f00000000"/>
+		<Metadata name="Catalog.БазаСтудентов" id="b915f898-7abb-4a94-817d-b8105d316b0e" configVersion="9c7c52cd7748e542837a10431cdd341a00000000"/>
+		<Metadata name="Catalog.ВыплатаСтепендии" id="b685a409-94c7-4e20-975d-7ec2fcf8ada1" configVersion="4b0922e9e885cc4f9e97a43d3f0705b400000000"/>
+		<Metadata name="Catalog.ОплаченныеСчета" id="3ea58f5e-f862-4381-95d6-b086121ed34e" configVersion="5c45144daf7b0a428524b98f639a1f9c00000000"/>
+		<Metadata name="Catalog.Отчеты" id="fe1048ab-d000-4eec-aae6-7cf66338badc" configVersion="05a7120f05c19140a687630420d9cd0400000000"/>
+		<Metadata name="Catalog.Справочники" id="77fc9165-15b0-4e7e-85c4-cb40ba03fca0" configVersion="d2bc6b4e6e1e0f4babf83953ed8afd0d00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="5b50273a-dd5e-4b69-9b9a-959092806ad1" configVersion="c9bf1a6d43885d458378a1d74b08949800000000"/>
+		<Metadata name="Document.ДокументыНаПоступление" id="57dd8714-05e7-4ca0-be57-00fff5eb62fc" configVersion="236c6087f9facf4582836cff715af8cd00000000"/>
+		<Metadata name="Document.ОстаткиСредств" id="3146281d-d26d-4911-ad8a-f85c2b3e138e" configVersion="ce7058e01ecddd4590192844263e507000000000"/>
+		<Metadata name="Document.ПоступлениеСредств" id="0a43243b-49fd-4161-bc15-a854034a0a36" configVersion="55947314889a35439ceed16c43f313cc00000000"/>
+		<Metadata name="Language.Английский" id="bb6f28e1-0553-421d-aeb7-dfa31b7f59f0" configVersion="3279f6d887d7d14984864eeeb3033ce200000000"/>
+		<Metadata name="Language.Русский" id="f47e7129-0b03-4888-9821-c61e1297de86" configVersion="bfb5c41ffdfcac44b9a4de64ef4fe73b00000000"/>
+		<Metadata name="Report.ВыплатыСтипендии" id="f746c81e-8638-4d53-9a3b-9d3d7e5bfc28" configVersion="3b0356677f9b764cbea4d909c20fa07200000000"/>
+		<Metadata name="Report.ОплатаЗаОбучение" id="546de1c0-b0c1-4dbd-beb2-bf97b239a84e" configVersion="7b6c0bde73186f438e83f3afe928c00d00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
